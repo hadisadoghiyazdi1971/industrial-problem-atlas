@@ -1,0 +1,19 @@
+name: Validate Industrial Problem Atlas
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate catalog and local page links
+        run: python tools/validate_atlas.py
+      - name: Check synthetic demo
+        run: python pilot/synthetic_sensor_demo.py --check

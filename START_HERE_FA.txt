@@ -1,0 +1,18 @@
+Industrial Problem Atlas — شروع سریع
+======================================
+
+در GitHub مخزن خالی industrial-problem-atlas را با Visibility = Public بسازید.
+README = Off / .gitignore = None / License = None / Copilot Prompt = empty
+
+سپس:
+1) همین ZIP را در یک پوشه خالی Extract کنید (فایل ZIP را مستقیم در GitHub آپلود نکنید).
+2) اگر می‌خواهید سایت را روی ویندوز ببینید: RUN_LOCAL.cmd
+3) برای ارسال کل پروژه به GitHub، با Git for Windows نصب‌شده: PUSH_TO_GITHUB.cmd
+4) مخزن GitHub: Settings > Pages > Deploy from a branch > main > /(root) > Save
+5) پس از انتشار، آدرس سایت:
+   https://hadisadoghiyazdi1971.github.io/industrial-problem-atlas/
+
+برای نمونه دانشجویی: RUN_DEMO.cmd
+برای توضیحات بیشتر: README.md
+
+مهم: سه پرونده نمونه فقط طرح مسئله‌اند؛ نتیجه صنعتی یا قرارداد واقعی ادعا نشده است.
