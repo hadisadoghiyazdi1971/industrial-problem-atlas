@@ -98,6 +98,12 @@ function initProblem(data) {
   const meta=el('div','detail-meta');
   append(meta,el('span','id-label',p.id),pill(p.status),el('span','sector-label',p.sector));
   append(heading,meta,el('h1','',p.title_fa),el('p','english-title',p.title_en),el('p','detail-summary',p.summary_fa));
+  if (p.case_url) {
+    const caseLink=el('a','btn primary','مطالعه پیشنهاد اختصاصی بر اساس منابع عمومی ←');
+    caseLink.href=p.case_url;
+    caseLink.style.marginTop='12px';
+    heading.appendChild(caseLink);
+  }
   const evidence=el('div','evidence-banner');
   append(evidence,el('b','','سطح شواهد: '+(LEVEL_LABELS[p.evidence_level]||'نامشخص')),el('span','','تاریخ بازبینی: '+p.updated+' | شواهد آزمایش صنعتی برای این پرونده گزارش نشده است.'));
   const main=el('div','detail-layout');

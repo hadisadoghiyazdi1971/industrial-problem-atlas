@@ -7,3 +7,10 @@ venv/
 Thumbs.db
 pilot/output/
 *.log
+
+# company private data and crawler outputs
+companies/*/outreach/private/
+companies/*/research/crawl_runs/
+companies/*/data/private/
+.env
+*.secret

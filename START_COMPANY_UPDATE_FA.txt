@@ -1,0 +1,15 @@
+اطلس صنعتی - بسته انتقال پرونده شرکت به پوشه مجزا
+
+۱. مخزن اصلی شما در GitHub Desktop: industrial-problem-atlas
+۲. ZIP را باز کنید و *محتویات آن* را به ریشه مخزن محلی کپی کنید:
+   H:\HadiSadoghiYazdi\industrial-problem-atlas
+۳. اگر می‌دانید بعد از بسته قبلی assets/app.js یا data/problems.json یا index.html را شخصاً تغییر داده‌اید، قبل از Replace از آن‌ها نسخه پشتیبان بگیرید؛ این بسته بر مبنای نسخه‌های قبلی این گفتگو تهیه شده است.
+۴. پوشه .git را دست نزنید. فایلهای خصوصی یا اطلاعات داخلی شرکت را در GitHub قرار ندهید.
+۵. آزمایش اختیاری: در پوشه مخزن اجرا کنید: python tools/validate_atlas.py
+۶. در GitHub Desktop: Summary = Organize company dossiers and prepare Codex research ؛ سپس Commit to main و Push origin.
+۷. صفحه جدید:
+https://hadisadoghiyazdi1971.github.io/industrial-problem-atlas/companies/keyhan-sanat-ghaem/
+۸. لینک قدیمی /cases/keyhan-sanat-ghaem.html هم به صفحه جدید هدایت می‌شود.
+۹. برای Codex، فایل زیر را در همان مخزن باز کرده و بگویید دستورالعمل را کامل اجرا کند:
+   companies/keyhan-sanat-ghaem/CODEX_TASK_FA.md
+۱۰. تا قبل از اطمینان از نتیجه عمومی و صحت منابع و URL، نامه‌ای به شرکت ارسال نکنید.

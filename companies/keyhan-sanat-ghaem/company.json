@@ -1,0 +1,32 @@
+{
+  "slug": "keyhan-sanat-ghaem",
+  "name_fa": "مجتمع تولیدی صنعتی کیهان صنعت قائم",
+  "official_website": "https://www.ksgco.com/",
+  "allowed_hosts_for_public_research": [
+    "www.ksgco.com",
+    "ksgco.com"
+  ],
+  "research_seed_urls": [
+    "https://www.ksgco.com/",
+    "https://www.ksgco.com/aboutus/",
+    "https://www.ksgco.com/units/",
+    "https://www.ksgco.com/units/machining/",
+    "https://www.ksgco.com/units/casting/",
+    "https://www.ksgco.com/units/specialized-quality-control-laboratory/",
+    "https://www.ksgco.com/units/rd/",
+    "https://www.ksgco.com/aboutus/mission/",
+    "https://www.ksgco.com/contactus/"
+  ],
+  "research_mode": "public_only_no_credentials",
+  "organization_relationship": "independent_unsolicited_research",
+  "last_manual_web_review": "2026-10-30",
+  "initial_proposal_id": "IPA-004",
+  "known_gaps": [
+    "actual production data",
+    "process capability",
+    "internal IT systems",
+    "financial losses",
+    "authorized scope"
+  ],
+  "notes_fa": "فقط وب‌سایت رسمی و اطلاعات عمومی. مسیرهای ورود، APIهای خصوصی و داده‌های داخلی خارج از حوزه پژوهش بدون مجوز هستند."
+}
