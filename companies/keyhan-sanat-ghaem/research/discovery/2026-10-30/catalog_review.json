@@ -1,0 +1,1184 @@
+{
+  "source_url": "https://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf",
+  "advertised_url": "http://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf",
+  "observed_at_utc": "2026-10-30T10:12:05.363310+00:00",
+  "status": 200,
+  "size_bytes": 5874441,
+  "sha256": "ea89d11eda19b96617055621f698dae0f85660d2c875e50f7ffe32bf85c3bb0c",
+  "page_count": 285,
+  "encrypted": false,
+  "scope": "PDF analyzed locally in memory. Only counts and four short heading markers retained; no PDF or complete extracted text saved to repository. KSG.2015/KSG.2014 labels are not proof of current validity.",
+  "pages_with_extractable_text": 283,
+  "sampled_page_markers": [
+    {
+      "pdf_page": 3,
+      "markers": [
+        "www.ksgco.com KSG.2015 ‖ 1",
+        "BMC"
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "markers": [
+        "KSG. 2015 ‖ 2 www.ksgco.com",
+        "BMC"
+      ]
+    },
+    {
+      "pdf_page": 48,
+      "markers": [
+        "KSG. 2014 ‖ 46 www.ksgco.com",
+        "IFA"
+      ]
+    },
+    {
+      "pdf_page": 285,
+      "markers": [
+        "www.ksgco.com KSG.2015 ‖ 283",
+        "YANMAR"
+      ]
+    }
+  ],
+  "per_page_text_lengths": [
+    {
+      "pdf_page": 1,
+      "character_count": 0
+    },
+    {
+      "pdf_page": 2,
+      "character_count": 0
+    },
+    {
+      "pdf_page": 3,
+      "character_count": 465
+    },
+    {
+      "pdf_page": 4,
+      "character_count": 760
+    },
+    {
+      "pdf_page": 5,
+      "character_count": 747
+    },
+    {
+      "pdf_page": 6,
+      "character_count": 504
+    },
+    {
+      "pdf_page": 7,
+      "character_count": 938
+    },
+    {
+      "pdf_page": 8,
+      "character_count": 1412
+    },
+    {
+      "pdf_page": 9,
+      "character_count": 1102
+    },
+    {
+      "pdf_page": 10,
+      "character_count": 693
+    },
+    {
+      "pdf_page": 11,
+      "character_count": 1021
+    },
+    {
+      "pdf_page": 12,
+      "character_count": 1324
+    },
+    {
+      "pdf_page": 13,
+      "character_count": 943
+    },
+    {
+      "pdf_page": 14,
+      "character_count": 810
+    },
+    {
+      "pdf_page": 15,
+      "character_count": 917
+    },
+    {
+      "pdf_page": 16,
+      "character_count": 793
+    },
+    {
+      "pdf_page": 17,
+      "character_count": 447
+    },
+    {
+      "pdf_page": 18,
+      "character_count": 764
+    },
+    {
+      "pdf_page": 19,
+      "character_count": 808
+    },
+    {
+      "pdf_page": 20,
+      "character_count": 626
+    },
+    {
+      "pdf_page": 21,
+      "character_count": 703
+    },
+    {
+      "pdf_page": 22,
+      "character_count": 1166
+    },
+    {
+      "pdf_page": 23,
+      "character_count": 1285
+    },
+    {
+      "pdf_page": 24,
+      "character_count": 1735
+    },
+    {
+      "pdf_page": 25,
+      "character_count": 1313
+    },
+    {
+      "pdf_page": 26,
+      "character_count": 1510
+    },
+    {
+      "pdf_page": 27,
+      "character_count": 1389
+    },
+    {
+      "pdf_page": 28,
+      "character_count": 986
+    },
+    {
+      "pdf_page": 29,
+      "character_count": 945
+    },
+    {
+      "pdf_page": 30,
+      "character_count": 1237
+    },
+    {
+      "pdf_page": 31,
+      "character_count": 971
+    },
+    {
+      "pdf_page": 32,
+      "character_count": 653
+    },
+    {
+      "pdf_page": 33,
+      "character_count": 862
+    },
+    {
+      "pdf_page": 34,
+      "character_count": 768
+    },
+    {
+      "pdf_page": 35,
+      "character_count": 939
+    },
+    {
+      "pdf_page": 36,
+      "character_count": 1035
+    },
+    {
+      "pdf_page": 37,
+      "character_count": 769
+    },
+    {
+      "pdf_page": 38,
+      "character_count": 907
+    },
+    {
+      "pdf_page": 39,
+      "character_count": 1036
+    },
+    {
+      "pdf_page": 40,
+      "character_count": 815
+    },
+    {
+      "pdf_page": 41,
+      "character_count": 879
+    },
+    {
+      "pdf_page": 42,
+      "character_count": 998
+    },
+    {
+      "pdf_page": 43,
+      "character_count": 626
+    },
+    {
+      "pdf_page": 44,
+      "character_count": 618
+    },
+    {
+      "pdf_page": 45,
+      "character_count": 630
+    },
+    {
+      "pdf_page": 46,
+      "character_count": 877
+    },
+    {
+      "pdf_page": 47,
+      "character_count": 720
+    },
+    {
+      "pdf_page": 48,
+      "character_count": 457
+    },
+    {
+      "pdf_page": 49,
+      "character_count": 824
+    },
+    {
+      "pdf_page": 50,
+      "character_count": 944
+    },
+    {
+      "pdf_page": 51,
+      "character_count": 781
+    },
+    {
+      "pdf_page": 52,
+      "character_count": 1197
+    },
+    {
+      "pdf_page": 53,
+      "character_count": 1388
+    },
+    {
+      "pdf_page": 54,
+      "character_count": 840
+    },
+    {
+      "pdf_page": 55,
+      "character_count": 1251
+    },
+    {
+      "pdf_page": 56,
+      "character_count": 751
+    },
+    {
+      "pdf_page": 57,
+      "character_count": 772
+    },
+    {
+      "pdf_page": 58,
+      "character_count": 959
+    },
+    {
+      "pdf_page": 59,
+      "character_count": 1175
+    },
+    {
+      "pdf_page": 60,
+      "character_count": 1210
+    },
+    {
+      "pdf_page": 61,
+      "character_count": 1254
+    },
+    {
+      "pdf_page": 62,
+      "character_count": 1195
+    },
+    {
+      "pdf_page": 63,
+      "character_count": 1111
+    },
+    {
+      "pdf_page": 64,
+      "character_count": 832
+    },
+    {
+      "pdf_page": 65,
+      "character_count": 960
+    },
+    {
+      "pdf_page": 66,
+      "character_count": 837
+    },
+    {
+      "pdf_page": 67,
+      "character_count": 1048
+    },
+    {
+      "pdf_page": 68,
+      "character_count": 1007
+    },
+    {
+      "pdf_page": 69,
+      "character_count": 1241
+    },
+    {
+      "pdf_page": 70,
+      "character_count": 1207
+    },
+    {
+      "pdf_page": 71,
+      "character_count": 1285
+    },
+    {
+      "pdf_page": 72,
+      "character_count": 1234
+    },
+    {
+      "pdf_page": 73,
+      "character_count": 951
+    },
+    {
+      "pdf_page": 74,
+      "character_count": 1105
+    },
+    {
+      "pdf_page": 75,
+      "character_count": 789
+    },
+    {
+      "pdf_page": 76,
+      "character_count": 1296
+    },
+    {
+      "pdf_page": 77,
+      "character_count": 1250
+    },
+    {
+      "pdf_page": 78,
+      "character_count": 1635
+    },
+    {
+      "pdf_page": 79,
+      "character_count": 1310
+    },
+    {
+      "pdf_page": 80,
+      "character_count": 842
+    },
+    {
+      "pdf_page": 81,
+      "character_count": 1020
+    },
+    {
+      "pdf_page": 82,
+      "character_count": 777
+    },
+    {
+      "pdf_page": 83,
+      "character_count": 1002
+    },
+    {
+      "pdf_page": 84,
+      "character_count": 1201
+    },
+    {
+      "pdf_page": 85,
+      "character_count": 894
+    },
+    {
+      "pdf_page": 86,
+      "character_count": 651
+    },
+    {
+      "pdf_page": 87,
+      "character_count": 929
+    },
+    {
+      "pdf_page": 88,
+      "character_count": 697
+    },
+    {
+      "pdf_page": 89,
+      "character_count": 739
+    },
+    {
+      "pdf_page": 90,
+      "character_count": 521
+    },
+    {
+      "pdf_page": 91,
+      "character_count": 250
+    },
+    {
+      "pdf_page": 92,
+      "character_count": 696
+    },
+    {
+      "pdf_page": 93,
+      "character_count": 1654
+    },
+    {
+      "pdf_page": 94,
+      "character_count": 1577
+    },
+    {
+      "pdf_page": 95,
+      "character_count": 631
+    },
+    {
+      "pdf_page": 96,
+      "character_count": 783
+    },
+    {
+      "pdf_page": 97,
+      "character_count": 810
+    },
+    {
+      "pdf_page": 98,
+      "character_count": 1235
+    },
+    {
+      "pdf_page": 99,
+      "character_count": 1088
+    },
+    {
+      "pdf_page": 100,
+      "character_count": 815
+    },
+    {
+      "pdf_page": 101,
+      "character_count": 1319
+    },
+    {
+      "pdf_page": 102,
+      "character_count": 816
+    },
+    {
+      "pdf_page": 103,
+      "character_count": 783
+    },
+    {
+      "pdf_page": 104,
+      "character_count": 922
+    },
+    {
+      "pdf_page": 105,
+      "character_count": 1074
+    },
+    {
+      "pdf_page": 106,
+      "character_count": 1078
+    },
+    {
+      "pdf_page": 107,
+      "character_count": 1252
+    },
+    {
+      "pdf_page": 108,
+      "character_count": 1228
+    },
+    {
+      "pdf_page": 109,
+      "character_count": 1419
+    },
+    {
+      "pdf_page": 110,
+      "character_count": 1067
+    },
+    {
+      "pdf_page": 111,
+      "character_count": 979
+    },
+    {
+      "pdf_page": 112,
+      "character_count": 546
+    },
+    {
+      "pdf_page": 113,
+      "character_count": 1372
+    },
+    {
+      "pdf_page": 114,
+      "character_count": 1076
+    },
+    {
+      "pdf_page": 115,
+      "character_count": 1301
+    },
+    {
+      "pdf_page": 116,
+      "character_count": 890
+    },
+    {
+      "pdf_page": 117,
+      "character_count": 1113
+    },
+    {
+      "pdf_page": 118,
+      "character_count": 1312
+    },
+    {
+      "pdf_page": 119,
+      "character_count": 1109
+    },
+    {
+      "pdf_page": 120,
+      "character_count": 1159
+    },
+    {
+      "pdf_page": 121,
+      "character_count": 1050
+    },
+    {
+      "pdf_page": 122,
+      "character_count": 708
+    },
+    {
+      "pdf_page": 123,
+      "character_count": 776
+    },
+    {
+      "pdf_page": 124,
+      "character_count": 1288
+    },
+    {
+      "pdf_page": 125,
+      "character_count": 813
+    },
+    {
+      "pdf_page": 126,
+      "character_count": 727
+    },
+    {
+      "pdf_page": 127,
+      "character_count": 1147
+    },
+    {
+      "pdf_page": 128,
+      "character_count": 869
+    },
+    {
+      "pdf_page": 129,
+      "character_count": 1314
+    },
+    {
+      "pdf_page": 130,
+      "character_count": 963
+    },
+    {
+      "pdf_page": 131,
+      "character_count": 1392
+    },
+    {
+      "pdf_page": 132,
+      "character_count": 1075
+    },
+    {
+      "pdf_page": 133,
+      "character_count": 1616
+    },
+    {
+      "pdf_page": 134,
+      "character_count": 781
+    },
+    {
+      "pdf_page": 135,
+      "character_count": 1381
+    },
+    {
+      "pdf_page": 136,
+      "character_count": 1434
+    },
+    {
+      "pdf_page": 137,
+      "character_count": 1037
+    },
+    {
+      "pdf_page": 138,
+      "character_count": 1235
+    },
+    {
+      "pdf_page": 139,
+      "character_count": 748
+    },
+    {
+      "pdf_page": 140,
+      "character_count": 705
+    },
+    {
+      "pdf_page": 141,
+      "character_count": 1343
+    },
+    {
+      "pdf_page": 142,
+      "character_count": 1123
+    },
+    {
+      "pdf_page": 143,
+      "character_count": 1530
+    },
+    {
+      "pdf_page": 144,
+      "character_count": 1309
+    },
+    {
+      "pdf_page": 145,
+      "character_count": 1260
+    },
+    {
+      "pdf_page": 146,
+      "character_count": 1477
+    },
+    {
+      "pdf_page": 147,
+      "character_count": 471
+    },
+    {
+      "pdf_page": 148,
+      "character_count": 554
+    },
+    {
+      "pdf_page": 149,
+      "character_count": 768
+    },
+    {
+      "pdf_page": 150,
+      "character_count": 909
+    },
+    {
+      "pdf_page": 151,
+      "character_count": 538
+    },
+    {
+      "pdf_page": 152,
+      "character_count": 718
+    },
+    {
+      "pdf_page": 153,
+      "character_count": 1169
+    },
+    {
+      "pdf_page": 154,
+      "character_count": 1099
+    },
+    {
+      "pdf_page": 155,
+      "character_count": 1844
+    },
+    {
+      "pdf_page": 156,
+      "character_count": 969
+    },
+    {
+      "pdf_page": 157,
+      "character_count": 631
+    },
+    {
+      "pdf_page": 158,
+      "character_count": 953
+    },
+    {
+      "pdf_page": 159,
+      "character_count": 910
+    },
+    {
+      "pdf_page": 160,
+      "character_count": 948
+    },
+    {
+      "pdf_page": 161,
+      "character_count": 846
+    },
+    {
+      "pdf_page": 162,
+      "character_count": 783
+    },
+    {
+      "pdf_page": 163,
+      "character_count": 791
+    },
+    {
+      "pdf_page": 164,
+      "character_count": 1094
+    },
+    {
+      "pdf_page": 165,
+      "character_count": 687
+    },
+    {
+      "pdf_page": 166,
+      "character_count": 916
+    },
+    {
+      "pdf_page": 167,
+      "character_count": 800
+    },
+    {
+      "pdf_page": 168,
+      "character_count": 978
+    },
+    {
+      "pdf_page": 169,
+      "character_count": 851
+    },
+    {
+      "pdf_page": 170,
+      "character_count": 773
+    },
+    {
+      "pdf_page": 171,
+      "character_count": 1002
+    },
+    {
+      "pdf_page": 172,
+      "character_count": 526
+    },
+    {
+      "pdf_page": 173,
+      "character_count": 1125
+    },
+    {
+      "pdf_page": 174,
+      "character_count": 1021
+    },
+    {
+      "pdf_page": 175,
+      "character_count": 1057
+    },
+    {
+      "pdf_page": 176,
+      "character_count": 508
+    },
+    {
+      "pdf_page": 177,
+      "character_count": 744
+    },
+    {
+      "pdf_page": 178,
+      "character_count": 1342
+    },
+    {
+      "pdf_page": 179,
+      "character_count": 722
+    },
+    {
+      "pdf_page": 180,
+      "character_count": 982
+    },
+    {
+      "pdf_page": 181,
+      "character_count": 609
+    },
+    {
+      "pdf_page": 182,
+      "character_count": 1150
+    },
+    {
+      "pdf_page": 183,
+      "character_count": 522
+    },
+    {
+      "pdf_page": 184,
+      "character_count": 1137
+    },
+    {
+      "pdf_page": 185,
+      "character_count": 993
+    },
+    {
+      "pdf_page": 186,
+      "character_count": 1221
+    },
+    {
+      "pdf_page": 187,
+      "character_count": 1202
+    },
+    {
+      "pdf_page": 188,
+      "character_count": 1095
+    },
+    {
+      "pdf_page": 189,
+      "character_count": 963
+    },
+    {
+      "pdf_page": 190,
+      "character_count": 823
+    },
+    {
+      "pdf_page": 191,
+      "character_count": 1047
+    },
+    {
+      "pdf_page": 192,
+      "character_count": 765
+    },
+    {
+      "pdf_page": 193,
+      "character_count": 698
+    },
+    {
+      "pdf_page": 194,
+      "character_count": 726
+    },
+    {
+      "pdf_page": 195,
+      "character_count": 1281
+    },
+    {
+      "pdf_page": 196,
+      "character_count": 947
+    },
+    {
+      "pdf_page": 197,
+      "character_count": 523
+    },
+    {
+      "pdf_page": 198,
+      "character_count": 729
+    },
+    {
+      "pdf_page": 199,
+      "character_count": 1145
+    },
+    {
+      "pdf_page": 200,
+      "character_count": 1062
+    },
+    {
+      "pdf_page": 201,
+      "character_count": 679
+    },
+    {
+      "pdf_page": 202,
+      "character_count": 918
+    },
+    {
+      "pdf_page": 203,
+      "character_count": 907
+    },
+    {
+      "pdf_page": 204,
+      "character_count": 962
+    },
+    {
+      "pdf_page": 205,
+      "character_count": 975
+    },
+    {
+      "pdf_page": 206,
+      "character_count": 983
+    },
+    {
+      "pdf_page": 207,
+      "character_count": 908
+    },
+    {
+      "pdf_page": 208,
+      "character_count": 1064
+    },
+    {
+      "pdf_page": 209,
+      "character_count": 609
+    },
+    {
+      "pdf_page": 210,
+      "character_count": 910
+    },
+    {
+      "pdf_page": 211,
+      "character_count": 1116
+    },
+    {
+      "pdf_page": 212,
+      "character_count": 1141
+    },
+    {
+      "pdf_page": 213,
+      "character_count": 1077
+    },
+    {
+      "pdf_page": 214,
+      "character_count": 894
+    },
+    {
+      "pdf_page": 215,
+      "character_count": 1316
+    },
+    {
+      "pdf_page": 216,
+      "character_count": 933
+    },
+    {
+      "pdf_page": 217,
+      "character_count": 1180
+    },
+    {
+      "pdf_page": 218,
+      "character_count": 884
+    },
+    {
+      "pdf_page": 219,
+      "character_count": 1265
+    },
+    {
+      "pdf_page": 220,
+      "character_count": 854
+    },
+    {
+      "pdf_page": 221,
+      "character_count": 470
+    },
+    {
+      "pdf_page": 222,
+      "character_count": 762
+    },
+    {
+      "pdf_page": 223,
+      "character_count": 1408
+    },
+    {
+      "pdf_page": 224,
+      "character_count": 738
+    },
+    {
+      "pdf_page": 225,
+      "character_count": 943
+    },
+    {
+      "pdf_page": 226,
+      "character_count": 520
+    },
+    {
+      "pdf_page": 227,
+      "character_count": 968
+    },
+    {
+      "pdf_page": 228,
+      "character_count": 986
+    },
+    {
+      "pdf_page": 229,
+      "character_count": 538
+    },
+    {
+      "pdf_page": 230,
+      "character_count": 1330
+    },
+    {
+      "pdf_page": 231,
+      "character_count": 1279
+    },
+    {
+      "pdf_page": 232,
+      "character_count": 631
+    },
+    {
+      "pdf_page": 233,
+      "character_count": 1932
+    },
+    {
+      "pdf_page": 234,
+      "character_count": 1834
+    },
+    {
+      "pdf_page": 235,
+      "character_count": 902
+    },
+    {
+      "pdf_page": 236,
+      "character_count": 828
+    },
+    {
+      "pdf_page": 237,
+      "character_count": 1097
+    },
+    {
+      "pdf_page": 238,
+      "character_count": 973
+    },
+    {
+      "pdf_page": 239,
+      "character_count": 1079
+    },
+    {
+      "pdf_page": 240,
+      "character_count": 1173
+    },
+    {
+      "pdf_page": 241,
+      "character_count": 842
+    },
+    {
+      "pdf_page": 242,
+      "character_count": 1094
+    },
+    {
+      "pdf_page": 243,
+      "character_count": 1012
+    },
+    {
+      "pdf_page": 244,
+      "character_count": 498
+    },
+    {
+      "pdf_page": 245,
+      "character_count": 976
+    },
+    {
+      "pdf_page": 246,
+      "character_count": 719
+    },
+    {
+      "pdf_page": 247,
+      "character_count": 783
+    },
+    {
+      "pdf_page": 248,
+      "character_count": 396
+    },
+    {
+      "pdf_page": 249,
+      "character_count": 926
+    },
+    {
+      "pdf_page": 250,
+      "character_count": 1389
+    },
+    {
+      "pdf_page": 251,
+      "character_count": 786
+    },
+    {
+      "pdf_page": 252,
+      "character_count": 1044
+    },
+    {
+      "pdf_page": 253,
+      "character_count": 1182
+    },
+    {
+      "pdf_page": 254,
+      "character_count": 1135
+    },
+    {
+      "pdf_page": 255,
+      "character_count": 933
+    },
+    {
+      "pdf_page": 256,
+      "character_count": 1437
+    },
+    {
+      "pdf_page": 257,
+      "character_count": 550
+    },
+    {
+      "pdf_page": 258,
+      "character_count": 970
+    },
+    {
+      "pdf_page": 259,
+      "character_count": 998
+    },
+    {
+      "pdf_page": 260,
+      "character_count": 1239
+    },
+    {
+      "pdf_page": 261,
+      "character_count": 1488
+    },
+    {
+      "pdf_page": 262,
+      "character_count": 1362
+    },
+    {
+      "pdf_page": 263,
+      "character_count": 964
+    },
+    {
+      "pdf_page": 264,
+      "character_count": 810
+    },
+    {
+      "pdf_page": 265,
+      "character_count": 1095
+    },
+    {
+      "pdf_page": 266,
+      "character_count": 1370
+    },
+    {
+      "pdf_page": 267,
+      "character_count": 1635
+    },
+    {
+      "pdf_page": 268,
+      "character_count": 1069
+    },
+    {
+      "pdf_page": 269,
+      "character_count": 1011
+    },
+    {
+      "pdf_page": 270,
+      "character_count": 1415
+    },
+    {
+      "pdf_page": 271,
+      "character_count": 1250
+    },
+    {
+      "pdf_page": 272,
+      "character_count": 1286
+    },
+    {
+      "pdf_page": 273,
+      "character_count": 1156
+    },
+    {
+      "pdf_page": 274,
+      "character_count": 868
+    },
+    {
+      "pdf_page": 275,
+      "character_count": 1262
+    },
+    {
+      "pdf_page": 276,
+      "character_count": 384
+    },
+    {
+      "pdf_page": 277,
+      "character_count": 1480
+    },
+    {
+      "pdf_page": 278,
+      "character_count": 1165
+    },
+    {
+      "pdf_page": 279,
+      "character_count": 1062
+    },
+    {
+      "pdf_page": 280,
+      "character_count": 946
+    },
+    {
+      "pdf_page": 281,
+      "character_count": 864
+    },
+    {
+      "pdf_page": 282,
+      "character_count": 803
+    },
+    {
+      "pdf_page": 283,
+      "character_count": 765
+    },
+    {
+      "pdf_page": 284,
+      "character_count": 791
+    },
+    {
+      "pdf_page": 285,
+      "character_count": 256
+    }
+  ]
+}

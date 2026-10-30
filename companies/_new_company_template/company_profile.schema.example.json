@@ -1,0 +1,18 @@
+{
+  "id": "IPA-NEXT",
+  "company": "نام شرکت - باید جایگزین شود",
+  "official_site": "https://example.org/",
+  "review_date": "YYYY-MM-DD",
+  "research_scope": "public-sources-only",
+  "claims": [
+    {
+      "id": "P01",
+      "group": "فرایند",
+      "title": "واقعیت مستند شرکت",
+      "fact": "آنچه دقیقاً در منبع عمومی آمده",
+      "source_url": "https://example.org/source",
+      "unknown": "آنچه از این شاهد نمی‌توان نتیجه گرفت",
+      "classification": "FACT_PUBLIC"
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "scope": "Metadata, link targets and structural counts only; raw HTML not saved. Counts are source HTML, not rendered browser behavior.",
+  "pages": [
+    {
+      "url": "https://www.ksgco.com/",
+      "observed_at_utc": "2026-10-30T10:08:30.856876+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "32b993e6eb291bf3af7aa0fdd25524b6c1105e1484f15df9905171dc2a302273",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/",
+      "meta": {
+        "description": "تولید کننده بوش و سیلندر خودرو",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": true
+    },
+    {
+      "url": "https://www.ksgco.com/aboutus/",
+      "observed_at_utc": "2026-10-30T10:08:33.789223+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/aboutus/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "bb8a3bd915b066cc8fc80088527769bf2cd815ce36053261d1ff999c444ad196",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/aboutus/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/units/",
+      "observed_at_utc": "2026-10-30T10:08:36.834699+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/units/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ffdc7056da82c12d774e7113b33367b074590b36a3d6d3fe662ad5e1bf5712df",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/units/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/units/machining/",
+      "observed_at_utc": "2026-10-30T10:08:39.756995+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/units/machining/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "71353f1cd9d8f08490bd7f9a2c326a0ff668981c9e138c1c797c7dc4b8f85698",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/units/machining/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/units/casting/",
+      "observed_at_utc": "2026-10-30T10:08:42.687662+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/units/casting/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "c8e6394af76c7ee1f0dd190dbe25081139f6076e19af542cf9f0b80c6868ae95",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/units/casting/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/units/specialized-quality-control-laboratory/",
+      "observed_at_utc": "2026-10-30T10:08:45.594954+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/units/specialized-quality-control-laboratory/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "cf675ddec41b0e97bcb0005989cd9bdc2ac5784c44ee73ef0cb1d76482a18055",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/units/specialized-quality-control-laboratory/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/units/rd/",
+      "observed_at_utc": "2026-10-30T10:08:48.827500+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/units/rd/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "2370ccd241f3df9ab021c6c64cd5945eddf7f2369a40b092b4102e723cbd3b87",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/units/rd/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/aboutus/mission/",
+      "observed_at_utc": "2026-10-30T10:08:51.707573+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/aboutus/mission/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ed5902154da3db4622eb8d6093f8fa2dbd447f5853b6eec53e82028bf79a3645",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/aboutus/mission/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/contactus/",
+      "observed_at_utc": "2026-10-30T10:08:54.622289+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/contactus/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e6d24fb305f61cfa194cd283dbfcc777fd784b0d2f5bb4b95ed76be632274579",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/contactus/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        },
+        {
+          "method": "post",
+          "action": "/contactus/#wpcf7-f62-p26-o1"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/%d8%aa%d9%88%d8%a7%d9%86%d9%85%d9%86%d8%af%db%8c-%d9%87%d8%a7%db%8c-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86/",
+      "observed_at_utc": "2026-10-30T10:08:57.574919+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/%d8%aa%d9%88%d8%a7%d9%86%d9%85%d9%86%d8%af%db%8c-%d9%87%d8%a7%db%8c-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "a43e99e94f200385686f7739d919ee674fda164d597167af20a54d7e246bbd56",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/%d8%aa%d9%88%d8%a7%d9%86%d9%85%d9%86%d8%af%db%8c-%d9%87%d8%a7%db%8c-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/products/",
+      "observed_at_utc": "2026-10-30T10:09:00.520472+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/products/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "91890245352213d7792dec8de16cabc75320b02df70c3996ddbfa99767d6105e",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/products/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/products/passengercars/",
+      "observed_at_utc": "2026-10-30T10:09:03.628444+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/products/passengercars/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e28903597ef4c568df3efba87f2f0e091939c47436f1ed3f28cd4183804576b8",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/products/passengercars/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [
+        "http://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf"
+      ],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/products/truck/",
+      "observed_at_utc": "2026-10-30T10:09:06.581221+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/products/truck/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "9cdfb5933bf211a76441f5051234fd20d4f92eda433e85f72168dde875ea3933",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/products/truck/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [
+        "http://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf"
+      ],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/products/road-machines/",
+      "observed_at_utc": "2026-10-30T10:09:09.637031+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/products/road-machines/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "7e791b9a073026696636276b37297d0f7f91934be9feb129f76fc3371c16ef7f",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/products/road-machines/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [
+        "http://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf"
+      ],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/products/agriculture/",
+      "observed_at_utc": "2026-10-30T10:09:12.697246+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/products/agriculture/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "65139b5ff588b3da9e9daafea3fd589c7f421eb74180a4237b7eb4a08955aee6",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/products/agriculture/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [
+        "http://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf"
+      ],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/products/railway/",
+      "observed_at_utc": "2026-10-30T10:09:16.702824+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/products/railway/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1bff94585fdeb3297af33507ecf0e162e5041ce387149268ebb28d1e7866aca3",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/products/railway/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/products/seegroup/",
+      "observed_at_utc": "2026-10-30T10:09:19.637588+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/products/seegroup/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "d154f430def513071c637f3a39a0ecf6f949f8de01306017b628ab0f2c231bc6",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/products/seegroup/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [
+        "http://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf"
+      ],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/quality/",
+      "observed_at_utc": "2026-10-30T10:09:22.548497+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/quality/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "c2fc21d9eaad00091a30c3e39f5ff8f4346168647d217b78a7946226fdad80bc",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/quality/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": true,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/quality/certificates/",
+      "observed_at_utc": "2026-10-30T10:09:25.617499+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/quality/certificates/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1700e0f25da79972b530d0b12e5a61dbf25708abf1e2b264f5e7c6df6da8349a",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/quality/certificates/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/quality/qualitypolicies/",
+      "observed_at_utc": "2026-10-30T10:09:28.689555+00:00",
+      "error": "URLError",
+      "detail": "<urlopen error _ssl.c:983: The handshake operation timed out>"
+    },
+    {
+      "url": "https://www.ksgco.com/units/quality-control/",
+      "observed_at_utc": "2026-10-30T10:09:48.803152+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/units/quality-control/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "da4b6903f898c5643f7700d6e87aed62a63e54bd0e8ad21c01cd81946bc56d89",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/units/quality-control/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/%d8%ae%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87/",
+      "observed_at_utc": "2026-10-30T10:09:51.837443+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/%d8%ae%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "c0b2738730f2ebff21be66a4292784cec40d79291ff1d718c717f64dfcdd739e",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/%d8%ae%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/aboutus/history/",
+      "observed_at_utc": "2026-10-30T10:09:54.782968+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/aboutus/history/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "16d8cbf66d4215da69bbe8937f7f317d7be723df9d1ee82cae1aeac5603395db",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/aboutus/history/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/aboutus/omessage/",
+      "observed_at_utc": "2026-10-30T10:09:57.775803+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/aboutus/omessage/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "910c9ac6452116547838af0700a057a76bbfebd5dbf051d1c29d9d9ed03d3536",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/aboutus/omessage/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    },
+    {
+      "url": "https://www.ksgco.com/quality-2/",
+      "observed_at_utc": "2026-10-30T10:10:00.700542+00:00",
+      "status": 200,
+      "final_url": "https://www.ksgco.com/quality-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "912325f9b130d52f004cb7000d35a50491536bfdf8754b1d94e309d4af8a10e4",
+      "language": {
+        "lang": "fa-IR",
+        "dir": "rtl"
+      },
+      "canonical": "https://www.ksgco.com/quality-2/",
+      "meta": {
+        "description": "BeLogistics | Best WordPress theme for logicstick companies",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "generator": "Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "table_count": 0,
+      "json_ld_types": [],
+      "pdf_links": [],
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.ksgco.com/"
+        }
+      ],
+      "public_api_config_urls": [
+        "https://www.ksgco.com/wp-admin/admin-ajax.php",
+        "https://www.ksgco.com/wp-json/"
+      ],
+      "placeholder_marker_present": false,
+      "social_shortcode_present": false
+    }
+  ]
+}

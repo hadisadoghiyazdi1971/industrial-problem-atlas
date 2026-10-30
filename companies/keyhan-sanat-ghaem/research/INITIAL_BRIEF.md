@@ -1,5 +1,7 @@
 # گزارش اولیه منابع عمومی — کیهان صنعت قائم، مشهد
 
+> تکمیل 2026-10-30: گزارش اولیه برای حفظ سابقه باقی مانده است. نسخه مستند جدید در [RESEARCH_REPORT_FA.md](RESEARCH_REPORT_FA.md) و [دفتر شواهد](EVIDENCE_LEDGER.csv) است. واژه اصلی صفحه آزمایشگاه «دقت ۰٫۰۰۱ میلی‌متر» است؛ تعبیر resolution در بند قدیمی زیر به‌عنوان تعریف قطعی مشخصات ابزار قابل اتکا نیست. نه عدم‌قطعیت و نه تفکیک‌پذیری دقیق با آن عدد احراز نشده است. ترتیب انتشار/ارسال در متن قدیمی مجوز اقدام نیست؛ طبق دستور فعلی صاحب مخزن هیچ Push، انتشار یا مکاتبه‌ای انجام نمی‌شود.
+
 **تاریخ بررسی:** 2026-10-30  
 **سطح شواهد:** Public company statements + public NIST methods. No private manufacturing data.  
 **Purpose:** Low-risk, specific exploratory invitation — not a defect allegation or performance claim.

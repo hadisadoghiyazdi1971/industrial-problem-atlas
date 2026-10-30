@@ -6,3 +6,32 @@ S04,https://www.ksgco.com/units/specialized-quality-control-laboratory/,آزما
 S05,https://www.ksgco.com/units/rd/,تحقیق‌وتوسعه,معرفی واحد R&D؛ اولویت کنونی نامشخص,2026-10-30,manual_public_page_review
 S06,https://www.ksgco.com/aboutus/mission/,مأموریت,اهداف مشتری‌محوری و بهبود خدمات؛ فرصت بررسی، نه اثبات مشکل,2026-10-30,manual_public_page_review
 S07,https://www.ksgco.com/contactus/,تماس,راه‌های تماس منتشرشده عمومی,2026-10-30,manual_public_page_review
+S08,https://www.ksgco.com/units/quality-control/,کنترل کیفیت,معرفی نظارت بر چرخه تولید و رضایت مشتری,2026-10-30,public_review_2026-10-30
+S09,https://www.ksgco.com/products/,محصولات,فهرست شش گروه محصول,2026-10-30,public_review_2026-10-30
+S10,https://www.ksgco.com/products/passengercars/,سواری,برندها برای معرفی‌اند؛ لینک تصویری کاتالوگ,2026-10-30,public_review_2026-10-30
+S11,https://www.ksgco.com/products/truck/,کامیونی,گروه محصول و لینک کاتالوگ مشترک,2026-10-30,public_review_2026-10-30
+S12,https://www.ksgco.com/products/road-machines/,راه‌سازی,گروه محصول و لینک کاتالوگ مشترک,2026-10-30,public_review_2026-10-30
+S13,https://www.ksgco.com/products/agriculture/,کشاورزی,گروه محصول و لینک کاتالوگ مشترک,2026-10-30,public_review_2026-10-30
+S14,https://www.ksgco.com/products/railway/,ریلی,معرفی گروه؛ لینک PDF در HTML این صفحه مشاهده نشد,2026-10-30,public_review_2026-10-30
+S15,https://www.ksgco.com/products/seegroup/,دریایی,گروه محصول و لینک کاتالوگ مشترک,2026-10-30,public_review_2026-10-30
+S16,https://www.ksgco.com/quality/,کیفیت,وجود متن نمونه لاتین در بدنه؛ نیاز به بازبینی محتوا,2026-10-30,public_review_2026-10-30
+S17,https://www.ksgco.com/quality/certificates/,گواهینامه‌ها,ادعاهای تاریخی؛ اعتبار فعلی گواهینامه بررسی نشده,2026-10-30,public_review_2026-10-30
+S18,https://www.ksgco.com/quality/qualitypolicies/,خط مشی کیفیت,اهداف کاهش هزینه و تحویل به‌موقع؛ بدون داده تحقق,2026-10-30,public_review_2026-10-30
+S19,https://www.ksgco.com/%d8%ae%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87/,خبرنامه,اعلام نشان استاندارد و لینک‌های گروه؛ اعتبار جاری نامشخص,2026-10-30,public_review_2026-10-30
+S20,https://www.ksgco.com/aboutus/history/,تاریخچه,معرفی تاریخی شرکت,2026-10-30,public_review_2026-10-30
+S21,https://www.ksgco.com/quality-2/,کیفیت؛ نسخه دیگر,صفحه عمومی مرتبط؛ تعیین نسخه مرجع نیازمند صاحب محتوا,2026-10-30,public_review_2026-10-30
+S22,https://www.ksgco.com/robots.txt,قواعد دسترسی,منع wp-admin و اعلام sitemap؛ مجوز کلی API مدیریتی نیست,2026-10-30,public_review_2026-10-30
+S23,https://www.ksgco.com/wp-sitemap.xml,sitemap index,دو sitemap اعلام شده؛ شاخه کاربران خوانده نشد,2026-10-30,public_review_2026-10-30
+S24,https://www.ksgco.com/wp-sitemap-posts-page-1.xml,sitemap صفحات,۲۵ نشانی؛ تطبیق با فهرست HTML انجام شد,2026-10-30,public_review_2026-10-30
+S25,"https://www.ksgco.com/wp-json/?_fields=name,description,url,home,namespaces",API عمومی؛ نمایه,فقط فراداده و namespace؛ بدون داده کاربران,2026-10-30,public_review_2026-10-30
+S26,"https://www.ksgco.com/wp-json/wp/v2/pages/51?_fields=id,date_gmt,modified_gmt,link,status,type",API صفحه اصلی,تاریخ‌های CMS؛ نه گواه وضعیت فعلی شرکت,2026-10-30,public_review_2026-10-30
+S27,https://developer.wordpress.org/rest-api/using-the-rest-api/discovery/,WordPress Discovery,معنای لینک اعلام‌شده REST API,2026-10-30,public_review_2026-10-30
+S28,https://developer.wordpress.org/rest-api/using-the-rest-api/global-parameters/,WordPress _fields,محدودکردن پاسخ به فراداده لازم,2026-10-30,public_review_2026-10-30
+S29,https://www.itl.nist.gov/div898/handbook/pmc/section1/pmc12.htm,NIST SPC,روش‌های پایه و فازهای پایش فرایند,2026-10-30,public_review_2026-10-30
+S30,https://www.nist.gov/publications/nistsematech-engineering-statistics-handbook-chapter-2-measurement-process,NIST Measurement Process,تکرارپذیری و تجدیدپذیری و ثبات و عدم‌قطعیت,2026-10-30,public_review_2026-10-30
+S31,https://ghaemg.com/%D8%B9%DB%8C%D8%A8-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AE%D8%B1%D8%A7%D8%A8%DB%8C-%D8%A8%D9%88%D8%B4-%D8%B3%DB%8C%D9%84%D9%86%D8%AF%D8%B1/,مقاله بیرونی لینک‌شده,ابزار وب 404 گزارش کرد؛ مبنای ادعای عیب محصول نیست,2026-10-30,web_tool_404_not_independently_confirmed
+S32,https://www.ksgco.com/aboutus/,درباره ما,معرفی تاریخی؛ داده جاری عملیات نیست,2026-10-30,public_review_2026-10-30
+S33,https://www.ksgco.com/units/,واحدها,معرفی اتصال خطوط تولید؛ نه تأیید ردیابی دیجیتال,2026-10-30,public_review_2026-10-30
+S34,https://www.ksgco.com/aboutus/omessage/,پیام سازمان,معرفی عمومی؛ تعهد همکاری پژوهشی نیست,2026-10-30,public_review_2026-10-30
+S35,https://www.ksgco.com/%d8%aa%d9%88%d8%a7%d9%86%d9%85%d9%86%d8%af%db%8c-%d9%87%d8%a7%db%8c-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86/,توانمندی‌ها,مسیر منوی عمومی به واحدهای فنی,2026-10-30,public_review_2026-10-30
+S36,https://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf,کاتالوگ فنی PDF,۲۸۵ صفحه؛ متن ۲۸۳ صفحه استخراج‌پذیر؛ نسخه جاری تأیید نشده,2026-10-30,public_review_2026-10-30

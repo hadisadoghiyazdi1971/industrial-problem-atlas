@@ -1,0 +1,222 @@
+{
+  "checked_at_utc": "2026-10-30T10:20:52.671246+00:00",
+  "result": "PASS",
+  "scope": "Task-specific static, provenance and loopback HTTP checks. No JavaScript rendering or visual/mobile test. No remote requests in this verification.",
+  "source_count": 36,
+  "evidence_count": 50,
+  "evidence_types": {
+    "FACT_PUBLIC": 29,
+    "ENGINEERING_INFERENCE": 6,
+    "OPPORTUNITY_HYPOTHESIS": 6,
+    "UNKNOWN": 9
+  },
+  "checks": [
+    {
+      "name": "required_deliverables",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "persian_rtl:companies\\keyhan-sanat-ghaem\\index.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "viewport:companies\\keyhan-sanat-ghaem\\index.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "persian_rtl:companies\\index.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "viewport:companies\\index.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "persian_rtl:cases\\keyhan-sanat-ghaem.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "viewport:cases\\keyhan-sanat-ghaem.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_html_markdown_links",
+      "passed": true,
+      "detail": {
+        "count": 160,
+        "broken": []
+      }
+    },
+    {
+      "name": "html_fragments",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "sources_unique",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "claims_unique",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "claim_required_fields_and_types",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "claim_source_consistency",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "claim_parents_exist",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "evidence_graph_acyclic",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "document_claim_ids_exist",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "unknowns_explicitly_unverified",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "declared_sitemap_coverage",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "crawl_no_recorded_errors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "public_api_receipts_minimized",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "api_endpoints_actually_advertised",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "catalog_counts_supported",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "other_cases_preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "ipa004_identity_status_route",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "company_listing_route",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "historical_redirect_route",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "prior_sources_preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tracked_changes_scoped",
+      "passed": true,
+      "detail": [
+        "companies/keyhan-sanat-ghaem/index.html",
+        "companies/keyhan-sanat-ghaem/outreach/README.md",
+        "companies/keyhan-sanat-ghaem/proposals/IPA-004_PROPOSAL_FA.md",
+        "companies/keyhan-sanat-ghaem/research/INITIAL_BRIEF.md",
+        "companies/keyhan-sanat-ghaem/research/SOURCES.csv",
+        "data/problems.json"
+      ]
+    },
+    {
+      "name": "local_http_routes",
+      "passed": true,
+      "detail": [
+        {
+          "route": "/",
+          "status": 200,
+          "bytes": 5841
+        },
+        {
+          "route": "/companies/",
+          "status": 200,
+          "bytes": 1783
+        },
+        {
+          "route": "/companies/keyhan-sanat-ghaem/",
+          "status": 200,
+          "bytes": 13972
+        },
+        {
+          "route": "/problem.html?id=IPA-004",
+          "status": 200,
+          "bytes": 1362
+        },
+        {
+          "route": "/cases/keyhan-sanat-ghaem.html",
+          "status": 200,
+          "bytes": 569
+        },
+        {
+          "route": "/data/problems.json",
+          "status": 200,
+          "bytes": 21429
+        },
+        {
+          "route": "/assets/style.css",
+          "status": 200,
+          "bytes": 11790
+        },
+        {
+          "route": "/assets/app.js",
+          "status": 200,
+          "bytes": 7497
+        }
+      ]
+    },
+    {
+      "name": "utf8_no_replacement_or_question_runs",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no_full_remote_documents_committed",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "failed_checks": []
+}

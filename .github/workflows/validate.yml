@@ -17,3 +17,5 @@ jobs:
         run: python tools/validate_atlas.py
       - name: Check synthetic demo
         run: python pilot/synthetic_sensor_demo.py --check
+      - name: Check IPA-004 synthetic diameter demo
+        run: python pilot/ipa004_synthetic_diameter_demo.py --check

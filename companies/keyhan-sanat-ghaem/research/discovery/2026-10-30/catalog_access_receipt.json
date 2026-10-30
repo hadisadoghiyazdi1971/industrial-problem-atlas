@@ -1,0 +1,13 @@
+{
+  "advertised_url": "http://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf",
+  "requested_url": "https://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf",
+  "scheme_upgrade_only": true,
+  "observed_at_utc": "2026-10-30T10:11:28.962574+00:00",
+  "discovered_on": "https://www.ksgco.com/products/passengercars/",
+  "method": "GET",
+  "credentials": false,
+  "status": 200,
+  "final_url": "https://www.ksgco.com/wp-content/uploads/2018/03/GHAEM-2015.pdf",
+  "content_type": "application/pdf",
+  "is_pdf_signature": true
+}

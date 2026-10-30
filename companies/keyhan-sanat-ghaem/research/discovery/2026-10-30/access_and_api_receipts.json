@@ -1,0 +1,74 @@
+{
+  "scope": "Public advertised resources only; no author, user, comment or operational data requested.",
+  "requests": [
+    {
+      "url": "https://www.ksgco.com/robots.txt",
+      "observed_at_utc": "2026-10-30T10:07:37.322686+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/robots.txt",
+      "content_type": "text/plain; charset=utf-8",
+      "rules": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://www.ksgco.com/wp-sitemap.xml\n"
+    },
+    {
+      "url": "https://www.ksgco.com/wp-sitemap.xml",
+      "observed_at_utc": "2026-10-30T10:07:40.221057+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-sitemap.xml",
+      "content_type": "application/xml; charset=UTF-8",
+      "declared_sitemaps": [
+        "https://www.ksgco.com/wp-sitemap-posts-page-1.xml",
+        "https://www.ksgco.com/wp-sitemap-users-1.xml"
+      ]
+    },
+    {
+      "url": "https://www.ksgco.com/wp-json/?_fields=name,description,url,home,namespaces",
+      "observed_at_utc": "2026-10-30T10:07:42.899294+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/?_fields=name,description,url,home,namespaces",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "name": "کیهان صنعت قائم",
+        "description": "کیهان صنعت قائم بزرگترین تولید کننده بوش سیلندر در ایران",
+        "url": "https://www.ksgco.com",
+        "home": "https://www.ksgco.com",
+        "namespaces": [
+          "oembed/1.0",
+          "contact-form-7/v1",
+          "wp/v2",
+          "wp-site-health/v1",
+          "wp-block-editor/v1"
+        ],
+        "_links": {
+          "help": [
+            {
+              "href": "https://developer.wordpress.org/rest-api/"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/51?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:07:45.563020+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/51?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 51,
+        "date_gmt": "2016-09-12T07:42:56",
+        "modified_gmt": "2022-04-18T05:26:35",
+        "status": "publish",
+        "type": "page",
+        "link": "https://www.ksgco.com/"
+      }
+    }
+  ]
+}

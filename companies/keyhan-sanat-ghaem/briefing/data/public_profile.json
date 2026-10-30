@@ -1,0 +1,145 @@
+{
+  "id": "IPA-004",
+  "company": "مجتمع تولیدی صنعتی کیهان صنعت قائم",
+  "official_site": "https://www.ksgco.com/",
+  "review_date": "2026-10-30",
+  "research_scope": "public-sources-only",
+  "sources_scope": "Extract of Codex public-source ledger reviewed against selected official web pages; not an operational audit",
+  "claims": [
+    {
+      "id": "P01",
+      "group": "زنجیره تولید",
+      "title": "ریخته‌گری و ماشین‌کاری",
+      "fact": "وب‌سایت واحدهای ریخته‌گری و ماشین‌کاری را معرفی می‌کند؛ این شناخت برای صورت‌بندی یک مسئله بین‌مرحله‌ای اهمیت دارد.",
+      "source_url": "https://www.ksgco.com/units/",
+      "unknown": "خروجی واقعی هر مرحله و امکان ردیابی یک قطعه در طول فرایند در اختیار پژوهش نیست.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P02",
+      "group": "فرایند",
+      "title": "ریخته‌گری گریز از مرکز، پوسته‌ای و ماسه‌ای",
+      "fact": "صفحه واحد ریخته‌گری روش‌های سه‌گانه را در کنار کوره القایی معرفی می‌کند.",
+      "source_url": "https://www.ksgco.com/units/casting/",
+      "unknown": "آمار لحظه‌ای ذوب، فرمولاسیون و ثبت دیجیتال پارامترها معلوم نیست.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P03",
+      "group": "فرایند",
+      "title": "ماشین‌کاری CNC و تولید ناب",
+      "fact": "صفحه ماشین‌کاری از تجهیزات CNC و متدولوژی تولید ناب برای کاهش اتلاف سخن می‌گوید.",
+      "source_url": "https://www.ksgco.com/units/machining/",
+      "unknown": "میزان ضایعات، OEE و توقف دستگاه‌ها اندازه‌گیری نشده است.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P04",
+      "group": "ظرفیت منتشرشده",
+      "title": "ظرفیت اعلامی بیش از ۱۸۰ هزار قطعه در ماه",
+      "fact": "عدد در متن رسمی معرفی ماشین‌کاری آمده است و تنها ادعای عمومی خود شرکت محسوب می‌شود.",
+      "source_url": "https://www.ksgco.com/units/machining/",
+      "unknown": "تولید محقق‌شده، ظرفیت جاری و واحدهای دربرگیرنده عدد مشخص نیست.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P05",
+      "group": "محصول",
+      "title": "بوش سیلندر و خانواده‌های کاربردی",
+      "fact": "وب‌سایت برای محصولات خانواده‌های سواری، کامیونی، راه‌سازی، کشاورزی، ریلی و دریایی معرفی می‌کند.",
+      "source_url": "https://www.ksgco.com/products/",
+      "unknown": "ترکیب واقعی سفارش‌های فعلی و پراکندگی تلرانس در خانواده‌ها معلوم نیست.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P06",
+      "group": "اندازه‌گیری",
+      "title": "ایرگیج قطر داخل و پشت",
+      "fact": "آزمایشگاه، ایرگیج بر پایه هوای فشرده را برای اندازه‌گیری قطر داخل و پشت معرفی می‌کند.",
+      "source_url": "https://www.ksgco.com/units/specialized-quality-control-laboratory/",
+      "unknown": "ثبت دیجیتال سری زمانی، مطالعه MSA، کالیبراسیون کنونی و عدم‌قطعیت معلوم نیست.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P07",
+      "group": "اندازه‌گیری",
+      "title": "زبری، سختی و متالوگرافی",
+      "fact": "وجود تجهیزات زبری‌سنج، سختی‌سنج و میکروسکوپ متالوگرافی در سایت ذکر شده است.",
+      "source_url": "https://www.ksgco.com/units/specialized-quality-control-laboratory/",
+      "unknown": "نتیجه آزمون‌های واقعی، نرخ نمونه‌گیری یا اتصال آزمون به شناسه ذوب معلوم نیست.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P08",
+      "group": "دقت سنجش",
+      "title": "ذکر عدد ۰٫۰۰۱ میلی‌متر",
+      "fact": "این عدد به‌عنوان دقت ابزار در متن عمومی شرکت آمده است؛ مشخصات مترولوژیکی آن باید در محل روشن شود.",
+      "source_url": "https://www.ksgco.com/units/specialized-quality-control-laboratory/",
+      "unknown": "نمی‌توان آن را خودکار به تفکیک‌پذیری، عدم‌قطعیت یا تکرارپذیری ابزار تعبیر کرد.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P09",
+      "group": "ساختار فنی",
+      "title": "معرفی واحد تحقیق‌وتوسعه",
+      "fact": "واحد R&D به‌عنوان یکی از واحدهای سازمان معرفی شده است.",
+      "source_url": "https://www.ksgco.com/units/",
+      "unknown": "برنامه روز، اولویت پژوهشی و وجود سامانه مدیریت دانش معلوم نیست.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P10",
+      "group": "راهبرد",
+      "title": "توجه به بازخورد مشتری و فناوری اطلاعات",
+      "fact": "در مأموریت عمومی، جستجو و مقایسه محصول، پیگیری درخواست و دریافت بازخورد مشتری ذکر شده‌اند.",
+      "source_url": "https://www.ksgco.com/aboutus/mission/",
+      "unknown": "میزان تحقق سامانه‌ها یا کیفیت تجربه مشتری سنجیده نشده است.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P11",
+      "group": "محصول و کاتالوگ",
+      "title": "کاتالوگ فنی لینک‌شده با صفحات محصول",
+      "fact": "صفحه محصول به کاتالوگ PDF فنی ارجاع می‌دهد. در بررسی Codex مورخ ۳۰ اکتبر ۲۰۲۶، فایل دانلودشده ۲۸۵ صفحه گزارش شد.",
+      "source_url": "https://www.ksgco.com/products/passengercars/",
+      "unknown": "به‌روز بودن کاتالوگ، تأیید تمام اندازه‌های درج‌شده و موجودی قطعات معلوم نیست.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P12",
+      "group": "کیفیت",
+      "title": "اهداف کاهش هزینه و بهبود مستمر",
+      "fact": "خط‌مشی منتشرشده بر کیفیت، کاهش هزینه، تحویل به‌موقع و مشارکت کارکنان تأکید دارد.",
+      "source_url": "https://www.ksgco.com/quality/qualitypolicies/",
+      "unknown": "میزان تحقق اهداف و شاخص‌های عملیاتی داخلی در دسترس نیست.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P13",
+      "group": "تحلیل مستند",
+      "title": "تفاوت نسخه استانداردهای ذکرشده در صفحات عمومی",
+      "fact": "متن صفحه اصلی و صفحه گواهینامه‌ها به نسخه‌های متفاوت استاندارد اشاره می‌کنند؛ مسئله فقط هماهنگی محتوای عمومی است.",
+      "source_url": "https://www.ksgco.com/quality/certificates/",
+      "unknown": "اعتبار گواهینامه‌های جاری معلوم نیست و از اختلاف متن نمی‌توان ابطال را نتیجه گرفت.",
+      "classification": "FACT_PUBLIC"
+    },
+    {
+      "id": "P14",
+      "group": "پایگاه عمومی",
+      "title": "APIهای محتوای عمومی WordPress",
+      "fact": "Codex مسیرهای معرفی‌شده عمومی وردپرس را برای metadata صفحات ثبت کرد، نه مسیرهای تولید یا تجهیزات.",
+      "source_url": "https://www.ksgco.com/wp-json/?_fields=name,description,url,home,namespaces",
+      "unknown": "وجود یا عدم وجود API داخلی CNC، ERP و MES اثبات نشده است.",
+      "classification": "FACT_PUBLIC_WITH_CODEX_REPORT"
+    },
+    {
+      "id": "P15",
+      "group": "تماس",
+      "title": "مسیر ارتباط رسمی منتشرشده",
+      "fact": "صفحه تماس، ایمیل و نشانی کارخانه/دفتر را درج کرده است.",
+      "source_url": "https://www.ksgco.com/contactus/",
+      "unknown": "هیچ ارتباط، پاسخ یا همکاری شرکت تا زمان تهیه پرونده تأیید نشده است.",
+      "classification": "FACT_PUBLIC"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "snapshot_name": "keyhan-sanat-ghaem-public-research-2026-10-30",
+  "observed_date": "2026-10-30",
+  "source_count": 36,
+  "evidence_count": 50,
+  "evidence_types": {
+    "FACT_PUBLIC": 29,
+    "ENGINEERING_INFERENCE": 6,
+    "OPPORTUNITY_HYPOTHESIS": 6,
+    "UNKNOWN": 9
+  },
+  "declared_sitemap_page_count": 25,
+  "advertised_page_api_receipt_count": 25,
+  "catalog": {
+    "page_count": 285,
+    "pages_with_extractable_text": 283,
+    "size_bytes": 5874441,
+    "sha256": "ea89d11eda19b96617055621f698dae0f85660d2c875e50f7ffe32bf85c3bb0c"
+  },
+  "unrelated_problem_sha256": {
+    "IPA-001": "45179633ce17ca811b5c40ee2887dcdb991462155e52b801073ac23b802367e4",
+    "IPA-002": "062bce94dbfcf1efd50bd3aed549e5f1a3266cee3082051119d403dbae7ddd84",
+    "IPA-003": "33a8bc15576fb390305c3ae4a1db6af9f9b6d24ef4c917e332eac8d748733c90"
+  }
+}

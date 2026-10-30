@@ -1,0 +1,481 @@
+{
+  "scope": "Only exact page alternates advertised in previously inspected public HTML. No content, author, user or operational data requested.",
+  "requests": [
+    {
+      "page_url": "https://www.ksgco.com/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/51",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/51?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:03.756302+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/51?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 51,
+        "date_gmt": "2016-09-12T07:42:56",
+        "modified_gmt": "2022-04-18T05:26:35",
+        "link": "https://www.ksgco.com/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/aboutus/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/2",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/2?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:06.486224+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/2?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 2,
+        "date_gmt": "2018-03-18T21:10:06",
+        "modified_gmt": "2018-03-23T22:48:49",
+        "link": "https://www.ksgco.com/aboutus/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/units/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/24",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/24?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:09.176601+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/24?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 24,
+        "date_gmt": "2016-09-14T13:27:15",
+        "modified_gmt": "2018-03-28T20:20:33",
+        "link": "https://www.ksgco.com/units/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/units/machining/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/160",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/160?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:11.924550+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/160?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 160,
+        "date_gmt": "2018-03-23T20:41:25",
+        "modified_gmt": "2018-03-23T22:12:32",
+        "link": "https://www.ksgco.com/units/machining/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/units/casting/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/161",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/161?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:14.576919+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/161?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 161,
+        "date_gmt": "2018-03-23T21:36:49",
+        "modified_gmt": "2018-03-23T22:13:23",
+        "link": "https://www.ksgco.com/units/casting/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/units/specialized-quality-control-laboratory/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/162",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/162?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:17.353174+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/162?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 162,
+        "date_gmt": "2018-03-23T21:49:12",
+        "modified_gmt": "2019-08-06T08:01:41",
+        "link": "https://www.ksgco.com/units/specialized-quality-control-laboratory/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/units/rd/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/163",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/163?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:20.077239+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/163?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 163,
+        "date_gmt": "2018-03-23T21:58:44",
+        "modified_gmt": "2018-03-23T22:13:16",
+        "link": "https://www.ksgco.com/units/rd/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/aboutus/mission/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/209",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/209?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:22.710315+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/209?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 209,
+        "date_gmt": "2018-03-23T22:46:19",
+        "modified_gmt": "2018-03-23T22:55:52",
+        "link": "https://www.ksgco.com/aboutus/mission/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/contactus/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/26",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/26?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:25.409034+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/26?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 26,
+        "date_gmt": "2016-09-14T13:27:37",
+        "modified_gmt": "2021-07-26T08:15:27",
+        "link": "https://www.ksgco.com/contactus/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/%d8%aa%d9%88%d8%a7%d9%86%d9%85%d9%86%d8%af%db%8c-%d9%87%d8%a7%db%8c-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/296",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/296?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:28.189541+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/296?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 296,
+        "date_gmt": "2019-08-03T12:03:04",
+        "modified_gmt": "2022-02-28T08:44:11",
+        "link": "https://www.ksgco.com/%d8%aa%d9%88%d8%a7%d9%86%d9%85%d9%86%d8%af%db%8c-%d9%87%d8%a7%db%8c-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/products/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/20",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/20?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:30.846848+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/20?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 20,
+        "date_gmt": "2016-09-14T13:26:15",
+        "modified_gmt": "2018-03-21T21:52:46",
+        "link": "https://www.ksgco.com/products/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/products/passengercars/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/107",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/107?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:33.482406+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/107?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 107,
+        "date_gmt": "2018-03-21T22:18:44",
+        "modified_gmt": "2018-03-21T23:19:27",
+        "link": "https://www.ksgco.com/products/passengercars/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/products/truck/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/111",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/111?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:36.183664+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/111?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 111,
+        "date_gmt": "2018-03-21T23:07:15",
+        "modified_gmt": "2018-03-21T23:18:36",
+        "link": "https://www.ksgco.com/products/truck/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/products/road-machines/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/115",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/115?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:38.864075+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/115?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 115,
+        "date_gmt": "2018-03-21T23:17:59",
+        "modified_gmt": "2018-03-21T23:17:59",
+        "link": "https://www.ksgco.com/products/road-machines/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/products/agriculture/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/117",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/117?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:41.548223+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/117?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 117,
+        "date_gmt": "2018-03-21T23:22:46",
+        "modified_gmt": "2018-03-21T23:23:42",
+        "link": "https://www.ksgco.com/products/agriculture/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/products/railway/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/119",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/119?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:44.232531+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/119?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 119,
+        "date_gmt": "2018-03-21T23:26:46",
+        "modified_gmt": "2018-03-21T23:27:27",
+        "link": "https://www.ksgco.com/products/railway/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/products/seegroup/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/121",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/121?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:47.059025+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/121?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 121,
+        "date_gmt": "2018-03-21T23:29:33",
+        "modified_gmt": "2018-03-21T23:30:53",
+        "link": "https://www.ksgco.com/products/seegroup/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/quality/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/22",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/22?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:49.750494+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/22?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 22,
+        "date_gmt": "2016-09-14T13:26:45",
+        "modified_gmt": "2018-11-24T06:43:50",
+        "link": "https://www.ksgco.com/quality/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/quality/certificates/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/135",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/135?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:52.458223+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/135?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 135,
+        "date_gmt": "2018-03-22T12:59:01",
+        "modified_gmt": "2019-08-03T10:45:04",
+        "link": "https://www.ksgco.com/quality/certificates/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/quality/qualitypolicies/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/137",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/137?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:55.101662+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/137?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 137,
+        "date_gmt": "2018-03-22T13:03:42",
+        "modified_gmt": "2019-08-03T11:23:43",
+        "link": "https://www.ksgco.com/quality/qualitypolicies/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/units/quality-control/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/164",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/164?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:10:57.789679+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/164?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 164,
+        "date_gmt": "2018-03-23T22:04:33",
+        "modified_gmt": "2019-08-08T03:22:51",
+        "link": "https://www.ksgco.com/units/quality-control/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/%d8%ae%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/294",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/294?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:11:00.482421+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/294?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 294,
+        "date_gmt": "2019-08-03T12:01:33",
+        "modified_gmt": "2022-11-10T05:15:32",
+        "link": "https://www.ksgco.com/%d8%ae%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/aboutus/history/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/207",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/207?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:11:03.202075+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/207?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 207,
+        "date_gmt": "2018-03-23T22:39:40",
+        "modified_gmt": "2018-03-23T22:49:42",
+        "link": "https://www.ksgco.com/aboutus/history/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/aboutus/omessage/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/208",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/208?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:11:05.891411+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/208?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 208,
+        "date_gmt": "2018-03-23T22:45:52",
+        "modified_gmt": "2018-03-23T22:51:03",
+        "link": "https://www.ksgco.com/aboutus/omessage/",
+        "status": "publish",
+        "type": "page"
+      }
+    },
+    {
+      "page_url": "https://www.ksgco.com/quality-2/",
+      "advertised_endpoint": "https://www.ksgco.com/wp-json/wp/v2/pages/564",
+      "url": "https://www.ksgco.com/wp-json/wp/v2/pages/564?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "observed_at_utc": "2026-10-30T10:11:08.590966+00:00",
+      "method": "GET",
+      "credentials": false,
+      "status": 200,
+      "final_url": "https://www.ksgco.com/wp-json/wp/v2/pages/564?_fields=id,date_gmt,modified_gmt,link,status,type",
+      "content_type": "application/json; charset=UTF-8",
+      "public_metadata": {
+        "id": 564,
+        "date_gmt": "2022-02-28T09:16:40",
+        "modified_gmt": "2022-02-28T09:16:41",
+        "link": "https://www.ksgco.com/quality-2/",
+        "status": "publish",
+        "type": "page"
+      }
+    }
+  ],
+  "stopped_on_restriction": false
+}
